@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Illegal",
+  "base_artist": "PinkPantheress",
+  "createdAt": "2026-02-21T20:10:04.147652Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Illegal Search",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/01_Illegal_Search_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Illegal Life",
+      "artist": "Capone-N-Noreaga feat. Tragedy Khadafi & Havoc",
+      "has_synced": true,
+      "path": "select/02_Illegal_Life_Capone-N-Noreaga_feat._Tragedy_Khadafi_&_Havoc.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Illegal Life (Feat. Tragedy Khadafi & Havoc)",
+      "artist": "Capone-N-Noreaga",
+      "has_synced": true,
+      "path": "select/03_Illegal_Life_(Feat._Tragedy_Khadafi_&_Havoc)_Capone-N-Noreaga.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Illegal",
+      "artist": "Shakira featuring featuring Carlos Santana feat. Carlos Santana",
+      "has_synced": false,
+      "path": "select/04_Illegal_Shakira_featuring_featuring_Carlos_Santana_feat._Carlos_Santana.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Illegal (Feat. Carlos Santana)",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/05_Illegal_(Feat._Carlos_Santana)_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Illegal (Johnny Vicious Warehouse Radio Mix)",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/06_Illegal_(Johnny_Vicious_Warehouse_Radio_Mix)_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Illegal [Feat. Carlos Santana] [Album Version]",
+      "artist": "Shakira Feat. Carlos Santana",
+      "has_synced": false,
+      "path": "select/07_Illegal_[Feat._Carlos_Santana]_[Album_Version]_Shakira_Feat._Carlos_Santana.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Illegal (Ali Dee Radio Remix)",
+      "artist": "Shakira featuring featuring Carlos Santana feat. Carlos Santana",
+      "has_synced": true,
+      "path": "select/08_Illegal_(Ali_Dee_Radio_Remix)_Shakira_featuring_featuring_Carlos_Santana_feat._Carlos_Santana.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Illegal [Feat. Carlos Santana] [Ali Dee Radio Remix]",
+      "artist": "Shakira Feat. Carlos Santana",
+      "has_synced": true,
+      "path": "select/09_Illegal_[Feat._Carlos_Santana]_[Ali_Dee_Radio_Remix]_Shakira_Feat._Carlos_Santana.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Illegal Alien - 2007 Remaster",
+      "artist": "Genesis",
+      "has_synced": true,
+      "path": "select/10_Illegal_Alien_-_2007_Remaster_Genesis.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "05 Illegal Alien",
+      "artist": "Genesis",
+      "has_synced": false,
+      "path": "select/11_05_Illegal_Alien_Genesis.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Illegal Search",
+      "artist": "L.L. Cool J",
+      "has_synced": true,
+      "path": "select/12_Illegal_Search_L.L._Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Almost Illegal",
+      "artist": "Rod Stewart",
+      "has_synced": true,
+      "path": "select/13_Almost_Illegal_Rod_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Almost Illegal (2008 Remastered Album Version)",
+      "artist": "Rod Stewart",
+      "has_synced": false,
+      "path": "select/14_Almost_Illegal_(2008_Remastered_Album_Version)_Rod_Stewart.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Almost Illegal – 2008 Remaster",
+      "artist": "Rod Stewart",
+      "has_synced": false,
+      "path": "select/15_Almost_Illegal_–_2008_Remaster_Rod_Stewart.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Illegal I Song",
+      "artist": "Velvet Revolver",
+      "has_synced": true,
+      "path": "select/16_Illegal_I_Song_Velvet_Revolver.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Illegal Smile",
+      "artist": "John Prine",
+      "has_synced": true,
+      "path": "select/17_Illegal_Smile_John_Prine.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Illegal Alien",
+      "artist": "Genesis",
+      "has_synced": true,
+      "path": "select/18_Illegal_Alien_Genesis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Illegal",
+      "artist": "PinkPantheress",
+      "has_synced": false,
+      "path": "select/pl_01_Illegal_PinkPantheress.txt"
+    }
+  ]
+}
